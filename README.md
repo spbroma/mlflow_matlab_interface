@@ -21,3 +21,10 @@ mlflow server
 ### Todos
  - accelerate `MLflowTrackingRestApi.post()` execution
  - add remaining functions
+
+ Currently implemented 5/42 functions:
+ - `create_run`
+ - `create_experiment`
+ - `list_experiments`
+ - `log_param`
+ - `log_metric`
